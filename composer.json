@@ -1,11 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "project-respawn-website",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": [
-        "framework",
-        "laravel"
-    ],
+    "description": "The website for Project Respawn",
+    "keywords": [],
     "license": "MIT",
     "require": {
         "php": "^7.2",
