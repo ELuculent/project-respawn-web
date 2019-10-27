@@ -95,8 +95,11 @@ provide as much details as possible to ensure we know what you have changed. You
 changes via the following
 
 ```bash
+$ git remote add origin https://github.com/ELuculent/project-respawn-web
 $ git pull
 $ git add /resources/*
+$ git commit -m "Commit Message"
+$ git push origin
 ```
 
 # Appendix - Scripts
